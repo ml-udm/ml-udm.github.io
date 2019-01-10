@@ -12,6 +12,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 
 * Ana Busic, Inria
 * Nikhil Devanur, Microsoft Research
+* Thorsten Joachims, Cornell University
 * Ramesh Johari, Stanford University
 * Yash Kanoria, Columbia University
 * Claire Mathieu, CNRS
