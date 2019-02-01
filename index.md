@@ -12,6 +12,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 
 * Ana Busic, Inria
 * Nikhil Devanur, Microsoft Research
+* Paul Duetting, London School of Economics
 * Thorsten Joachims, Cornell University
 * Ramesh Johari, Stanford University
 * Yash Kanoria, Columbia University
@@ -21,5 +22,6 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 * Alexandre Proutière, KTH
 * Devavrat Shah, MIT
 * Vasilis Syrgkanis, Microsoft Research
+* Flavian Vasile, Criteo
 * Nisheeth Vishnoi, Yale University
 
