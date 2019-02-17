@@ -29,5 +29,6 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
 * Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
+* Speaker: Vasilis Syrgkanis; Title: Econometrics and Machine Learning through the Lens of Neyman Orthogonality; Abstract: [here](https://ml-udm.github.io/abstract-syrgkanis.html)
 
 
