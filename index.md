@@ -25,3 +25,9 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 * Flavian Vasile, Criteo
 * Nisheeth Vishnoi, Yale University
 
+** Talk titles and abstracts:**
+
+* Yash Kanoria, **State Dependent Control of Ride-Hailing Systems**
+* Devavrat Shah, **On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis**
+
+
