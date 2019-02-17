@@ -27,7 +27,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 
 **Talk titles and abstracts:**
 
-* Yash Kanoria, State Dependent Control of Ride-Hailing Systems, [abstract](https://ml-udm.github.io/abstract-kanoria.html)
-* Devavrat Shah: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis, [abstract](https://ml-udm.github.io/abstract-shah.html)
+* Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
+* Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
 
 
