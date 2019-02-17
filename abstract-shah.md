@@ -1,9 +1,0 @@
-<h1>Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis</h1>
-
-<h2>Abstract:</h2>
-  
-Inspired by the success of AlphaGo Zero (AGZ) which utilizes Monte Carlo Tree Search (MCTS) with Supervised Learning via Neural Network to learn the optimal policy and value function, in this work, we focus on establishing formally that such an approach indeed finds optimal policy asymptotically, as well as establishing non-asymptotic guarantees in the process. We shall focus on infinite-horizon discounted Markov Decision Process to establish the results. To start with, it requires establishing the MCTS’s claimed property in the literature (cf. Kocsis and Szepesvari  (2006 ); Kocsis et al. (2006 )) that for any given query state, MCTS provides approximate value function for the state with enough simulation steps of MDP. We provide non-asymptotic analysis establishing this property by analyzing a non-stationary multi-arm bandit setup. Our proof suggests that MCTS needs to be utilized with polynomial rather than logarithmic “upper confidence bound” for establishing its desired performance – interestingly enough, AGZ chooses such a polynomial bound.
-
-Using this as a building block, combined with nearest neighbor supervised learning, we argue that MCTS acts as a “policy improvement” operator; it has a natural “bootstrapping” property to iteratively improve value function approximation for all  states, due to combining with supervised learning, despite evaluating at only finitely many states. In effect, we establish that to learn approximation of value function (infinity norm) MCTS combined with nearest-neighbors requires nearly optimal number of samples. 
-
-This is based on joint work with Qiaomin Xie (Cornell) and Zhi Xu (MIT).
