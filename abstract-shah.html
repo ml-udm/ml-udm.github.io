@@ -6,7 +6,7 @@
 
 <h2>Abstract:</h2>
 
-<p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">  
+<p style = "font-family:serif;font-size:16px;">  
 Inspired by the success of AlphaGo Zero (AGZ) which utilizes Monte Carlo Tree Search (MCTS) with Supervised Learning via Neural Network to learn the optimal policy and value function, in this work, we focus on establishing formally that such an approach indeed finds optimal policy asymptotically, as well as establishing non-asymptotic guarantees in the process. We shall focus on infinite-horizon discounted Markov Decision Process to establish the results. To start with, it requires establishing the MCTS’s claimed property in the literature (cf. Kocsis and Szepesvari  (2006 ); Kocsis et al. (2006 )) that for any given query state, MCTS provides approximate value function for the state with enough simulation steps of MDP. We provide non-asymptotic analysis establishing this property by analyzing a non-stationary multi-arm bandit setup. Our proof suggests that MCTS needs to be utilized with polynomial rather than logarithmic “upper confidence bound” for establishing its desired performance – interestingly enough, AGZ chooses such a polynomial bound.
 </p>
 
