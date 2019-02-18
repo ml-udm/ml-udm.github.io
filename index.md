@@ -17,7 +17,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 * Ramesh Johari, Stanford University
 * Yash Kanoria, Columbia University
 * Claire Mathieu, CNRS
-* Aranyak Mehta, Google
+* Aranyak Mehta, Google Research
 * Sewoong Oh, University of Washington
 * Alexandre Proutière, KTH
 * Devavrat Shah, MIT
@@ -28,6 +28,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 **Talk titles and abstracts:**
 
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
+* Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
 * Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
 * Speaker: Vasilis Syrgkanis; Title: Econometrics and Machine Learning through the Lens of Neyman Orthogonality; Abstract: [here](https://ml-udm.github.io/abstract-syrgkanis.html)
 
