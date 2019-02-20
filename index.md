@@ -30,6 +30,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 * Speaker: Paul Duetting; Title: Optimal Auctions through Deep Learning; Abstract: [here](https://ml-udm.github.io/abstract-duetting.html)
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
 * Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
+* Speaker: Sewoong Oh; Title: Decision theoretic approach for improved training of Generative Adversarial Networks; Abstract: [here](https://ml-udm.github.io/abstract-oh.html)
 * Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
 * Speaker: Vasilis Syrgkanis; Title: Econometrics and Machine Learning through the Lens of Neyman Orthogonality; Abstract: [here](https://ml-udm.github.io/abstract-syrgkanis.html)
 
