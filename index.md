@@ -33,5 +33,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 * Speaker: Sewoong Oh; Title: Decision theoretic approach for improved training of Generative Adversarial Networks; Abstract: [here](https://ml-udm.github.io/abstract-oh.html)
 * Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
 * Speaker: Vasilis Syrgkanis; Title: Econometrics and Machine Learning through the Lens of Neyman Orthogonality; Abstract: [here](https://ml-udm.github.io/abstract-syrgkanis.html)
+* Speaker: Flavian Vasile; Title: On The Limits and Potential Solutions for state-of-the-art Recommendation; Abstract: [here](https://ml-udm.github.io/abstract-vasile.html)
+
 
 
