@@ -27,6 +27,7 @@ Scope: The scope of this workshop is to discuss important algorithmic and mathem
 
 **Talk titles and abstracts:**
 
+* Speaker: Nikhil Devanur; Title: Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond; Abstract: [here](https://ml-udm.github.io/abstract-devanur.html)
 * Speaker: Paul Duetting; Title: Optimal Auctions through Deep Learning; Abstract: [here](https://ml-udm.github.io/abstract-duetting.html)
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
 * Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
