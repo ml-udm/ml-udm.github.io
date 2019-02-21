@@ -1,3 +1,5 @@
+![rue d'Ulm](ulm.png) 
+
 # Workshop on Machine Learning and User Decision Making
 
 Dates: May 23-24, 2019
