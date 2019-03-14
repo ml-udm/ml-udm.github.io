@@ -33,6 +33,7 @@ Participation by invitation only.
 
 * Speaker: Nikhil Devanur; Title: Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond; Abstract: [here](https://ml-udm.github.io/abstract-devanur.html)
 * Speaker: Paul Duetting; Title: Optimal Auctions through Deep Learning; Abstract: [here](https://ml-udm.github.io/abstract-duetting.html)
+* Speaker: Ramesh Johari; Title: Semi-parametric dynamic contextual pricing; Abstract: [here](https://ml-udm.github.io/abstract-johari.html)
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
 * Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
 * Speaker: Sewoong Oh; Title: Decision theoretic approach for improved training of Generative Adversarial Networks; Abstract: [here](https://ml-udm.github.io/abstract-oh.html)
