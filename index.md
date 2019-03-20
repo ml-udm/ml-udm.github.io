@@ -37,6 +37,7 @@ Participation by invitation only.
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
 * Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
 * Speaker: Sewoong Oh; Title: Decision theoretic approach for improved training of Generative Adversarial Networks; Abstract: [here](https://ml-udm.github.io/abstract-oh.html)
+* Speaker: Alexandre Proutière; Title: Exploration in Structured Reinforcement Learning; Abstract: [here](https://ml-udm.github.io/abstract-proutiere.html)
 * Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
 * Speaker: Vasilis Syrgkanis; Title: Econometrics and Machine Learning through the Lens of Neyman Orthogonality; Abstract: [here](https://ml-udm.github.io/abstract-syrgkanis.html)
 * Speaker: Flavian Vasile; Title: On The Limits and Potential Solutions for state-of-the-art Recommendation; Abstract: [here](https://ml-udm.github.io/abstract-vasile.html)
