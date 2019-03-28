@@ -10,7 +10,7 @@
 
 **Scope**: The scope of this workshop is to discuss important algorithmic and mathematical questions that arise at the interface between machine learning and user decision making. The topics include but are not limited to online matching in uncertain environments, active / reinforcement learning of user and job profiles, algorithm fairness, mechanism design for online platforms, and inference of user susceptibility to influence.
 
-Participation by invitation only.
+Please contact the organizers if you would like to attend.
 
 **Confirmed speakers:**
 
