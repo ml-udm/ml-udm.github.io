@@ -35,6 +35,7 @@ Please contact the organizers if you would like to attend.
 * Speaker: Paul Duetting; Title: Optimal Auctions through Deep Learning; Abstract: [here](https://ml-udm.github.io/abstract-duetting.html)
 * Speaker: Ramesh Johari; Title: Semi-parametric dynamic contextual pricing; Abstract: [here](https://ml-udm.github.io/abstract-johari.html)
 * Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
+* Speaker: Claire Mathieu; Title: Hierarhical Clustering; Abstract: [here](https://ml-udm.github.io/abstract-mathieu.html)
 * Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
 * Speaker: Sewoong Oh; Title: Decision theoretic approach for improved training of Generative Adversarial Networks; Abstract: [here](https://ml-udm.github.io/abstract-oh.html)
 * Speaker: Alexandre Proutière; Title: Exploration in Structured Reinforcement Learning; Abstract: [here](https://ml-udm.github.io/abstract-proutiere.html)
