@@ -17,7 +17,7 @@ Please contact the organizers if you would like to attend.
 | Time |                                                                                    |
 |:------------|:----------------------------------------------------------------------------|
 | 09:00-09:55 | **Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond** <br> Nikhil Devanur, _Microsoft Research_ <br> [Abstract](https://ml-udm.github.io/abstract-devanur.html) |                                 
-| 10:00-10:55 | **Exploration in Structured Reinforcement Learning** <br> Alexandre Proutiere, KTH <br> [Abstract](https://ml-udm.github.io/abstract-proutiere.html) |
+| 10:00-10:55 | **Exploration in Structured Reinforcement Learning** <br> Alexandre Proutiere, _KTH_ <br> [Abstract](https://ml-udm.github.io/abstract-proutiere.html) |
 | 11:00-11:30 | _Coffee break_ |
 | 11:30-12:30 | **Can RL Learn Classic Optimization Algorithms** <br> Aranyak Mehta, _Google Research_ <br> [Abstract](https://ml-udm.github.io/abstract-mehta.html) |
 | 12:30-14:00 | _Lunch break_
