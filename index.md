@@ -31,41 +31,10 @@ Please contact the organizers if you would like to attend.
 | 09:00-<br>09:55 | **On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis** <br> Devavrat Shah, _MIT_ <br> [Abstract](https://ml-udm.github.io/abstract-shah.html) |
 | 10:00-<br>10:55 | **Hierarchical Clustering** <br> Claire Mathieu, _CNRS_ <br> [Abstract](https://ml-udm.github.io/abstract-mathieu.html) |
 | 11:00-<br>11:30 | _Coffee break_ |
-| 11:30-<br>12:30 | **Optimal Auctions through Deep Learning** <br> Paul Duetting, _LSE_ <br> [Abstract](https://ml-udm.github.io/abstract-duetting.html) |
+| 11:30-<br>12:25 | **Optimal Auctions through Deep Learning** <br> Paul Duetting, _LSE_ <br> [Abstract](https://ml-udm.github.io/abstract-duetting.html) |
 | 12:30-<br>14:00 | _Lunch break_ |
 | 14:00-<br>14:55 | **Semi-parametric Dynamic Contextual Pricing** <br> Ramesh Johari, _Stanford University_ <br> [Abstract](https://ml-udm.github.io/abstract-johari.html) |
 | 15:00-<br>15:55 | **Econometrics and Machine Learning through the Lens of Neyman Orthogonality** <br> Vasilis Syrgkanis, _Microsoft Research_ <br> [Abstract](https://ml-udm.github.io/abstract-syrgkanis.html)|
 | 16:00-<br>16:55 | **Decision Theoretic Approach for Improved Training of Generative Adversarial Networks** <br> Sewoong Oh, _University of Washington_ <br> [Abstract](https://ml-udm.github.io/abstract-oh.html) |
-
-
-**Speakers:**
-
-* Ana Busic, Inria
-* Nikhil Devanur, Microsoft Research
-* Paul Duetting, London School of Economics
-* Ramesh Johari, Stanford University
-* Yash Kanoria, Columbia University
-* Claire Mathieu, CNRS
-* Aranyak Mehta, Google Research
-* Sewoong Oh, University of Washington
-* Alexandre Proutière, KTH
-* Devavrat Shah, MIT
-* Vasilis Syrgkanis, Microsoft Research
-* Flavian Vasile, Criteo
-
-**Talk titles and abstracts:**
-
-* Speaker: Nikhil Devanur; Title: Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond; Abstract: [here](https://ml-udm.github.io/abstract-devanur.html)
-* Speaker: Paul Duetting; Title: Optimal Auctions through Deep Learning; Abstract: [here](https://ml-udm.github.io/abstract-duetting.html)
-* Speaker: Ramesh Johari; Title: Semi-parametric dynamic contextual pricing; Abstract: [here](https://ml-udm.github.io/abstract-johari.html)
-* Speaker: Yash Kanoria; Title: State Dependent Control of Ride-Hailing Systems; Abstract: [here](https://ml-udm.github.io/abstract-kanoria.html)
-* Speaker: Claire Mathieu; Title: Hierarhical Clustering; Abstract: [here](https://ml-udm.github.io/abstract-mathieu.html)
-* Speaker: Aranyak Mehta; Title: Can RL learn classic optimization Algorithms?; Abstract: [here](https://ml-udm.github.io/abstract-mehta.html)
-* Speaker: Sewoong Oh; Title: Decision theoretic approach for improved training of Generative Adversarial Networks; Abstract: [here](https://ml-udm.github.io/abstract-oh.html)
-* Speaker: Alexandre Proutière; Title: Exploration in Structured Reinforcement Learning; Abstract: [here](https://ml-udm.github.io/abstract-proutiere.html)
-* Speaker: Devavrat Shah; Title: On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis; Abstract: [here](https://ml-udm.github.io/abstract-shah.html)
-* Speaker: Vasilis Syrgkanis; Title: Econometrics and Machine Learning through the Lens of Neyman Orthogonality; Abstract: [here](https://ml-udm.github.io/abstract-syrgkanis.html)
-* Speaker: Flavian Vasile; Title: On The Limits and Potential Solutions for state-of-the-art Recommendation; Abstract: [here](https://ml-udm.github.io/abstract-vasile.html)
-
 
 
