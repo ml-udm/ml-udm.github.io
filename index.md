@@ -25,7 +25,7 @@ Please contact the organizers if you would like to attend.
 | 14:00-<br>14:55 | **TBC** <br> Ana Busic, _INRIA_ <br> Abstract |
 | 15:00-<br>15:55 | **State Dependent Control of Ride-Hailing Systems** <br> Yash Kanoria, _Columbia University_ <br> [Abstract](https://ml-udm.github.io/abstract-kanoria.html) |
 | 16:00-<br>16:55 | **On The Limits and Potential Solutions for state-of-the-art Recommendation** <br> Flavian Vasile, _Criteo_ <br> [Abstract](https://ml-udm.github.io/abstract-vasile.html) |
-| 19:00 | _Workshop dinner_ <br> venue TBC <br><br><br>|
+| 19:00 <br><br><br> | _Workshop dinner_ <br> venue TBC <br><br><br>|
 | Time | **Day 2 - Friday May 24, 2019** |
 | 09:00-<br>09:55 | **On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis** <br> Devavrat Shah, _MIT_ <br> [Abstract](https://ml-udm.github.io/abstract-shah.html) |
 | 10:00-<br>10:55 | **Hierarchical Clustering** <br> Claire Mathieu, _CNRS_ <br> [Abstract](https://ml-udm.github.io/abstract-mathieu.html) |
