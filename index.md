@@ -15,7 +15,7 @@ Please contact the organizers if you would like to attend.
 **Day 1**
 
 | Time |                                                                                    |
-|:-----------:|:---------------------------------------------------------------------------:|
+|:------------|:----------------------------------------------------------------------------|
 | 09:00-09:55 | **Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond**  |
 |             | _Nikhil Devanur_, Microsoft Research                                        |                                 
 | 10:00-10:55 | **Exploration in Structured Reinforcement Learning**                        |
