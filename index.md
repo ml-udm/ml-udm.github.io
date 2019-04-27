@@ -37,7 +37,7 @@ Please contact the organizers if you would like to attend.
 | 12:30-14:00 | _Lunch break_ |
 | 14:00-14:55 | **Semi-parametric Dynamic Contextual Pricing** <br> Ramesh Johari, _Stanford University_ <br> [Abstract](https://ml-udm.github.io/abstract-johari.html) |
 | 15:00-15:55 | **Econometrics and Machine Learning through the Lens of Neyman Orthogonality** <br> Vasilis Syrgkanis, _Microsoft Research_ <br> [Abstract](https://ml-udm.github.io/abstract-syrgkanis.html)|
-| 16:00-16:55 | **Decision Theoretic Approach for Improved Training of Generative Adversarial Networks** <br> Sewoong Oh, _University of Washington_ <br> [Abstract](https://ml-udm.github.io/abstract-oh.html)
+| 16:00-16:55 | **Decision Theoretic Approach for Improved Training of Generative Adversarial Networks** <br> Sewoong Oh, _University of Washington_ <br> [Abstract](https://ml-udm.github.io/abstract-oh.html) |
 
 
 **Speakers:**
