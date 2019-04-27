@@ -20,7 +20,7 @@ Please contact the organizers if you would like to attend.
 | 09:00-<br>09:55 | **Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond** <br> Nikhil Devanur, _Microsoft Research_ <br> [Abstract](https://ml-udm.github.io/abstract-devanur.html) |                                 
 | 10:00-<br>10:55 | **Exploration in Structured Reinforcement Learning** <br> Alexandre Proutière, _KTH_ <br> [Abstract](https://ml-udm.github.io/abstract-proutiere.html) |
 | 11:00-<br>11:30 | _Coffee break_ |
-| 11:30-<br>12:30 | **Can RL Learn Classic Optimization Algorithms** <br> Aranyak Mehta, _Google Research_ <br> [Abstract](https://ml-udm.github.io/abstract-mehta.html) |
+| 11:30-<br>12:25 | **Can RL Learn Classic Optimization Algorithms** <br> Aranyak Mehta, _Google Research_ <br> [Abstract](https://ml-udm.github.io/abstract-mehta.html) |
 | 12:30-<br>14:00 | _Lunch break_
 | 14:00-<br>14:55 | **TBC** <br> Ana Busic, _INRIA_ <br> Abstract |
 | 15:00-<br>15:55 | **State Dependent Control of Ride-Hailing Systems** <br> Yash Kanoria, _Columbia University_ <br> [Abstract](https://ml-udm.github.io/abstract-kanoria.html) |
