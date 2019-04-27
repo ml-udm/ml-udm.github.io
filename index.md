@@ -12,12 +12,18 @@
 
 Please contact the organizers if you would like to attend.
 
-**Confirmed speakers:**
+**Day 1**
+
+| Time |                                                                                |
+|:-----------:|:-----------------------------------------------------------------------:|
+| 09:00-09:55 | Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond  |
+|             
+
+**Speakers:**
 
 * Ana Busic, Inria
 * Nikhil Devanur, Microsoft Research
 * Paul Duetting, London School of Economics
-* Thorsten Joachims, Cornell University
 * Ramesh Johari, Stanford University
 * Yash Kanoria, Columbia University
 * Claire Mathieu, CNRS
@@ -27,7 +33,6 @@ Please contact the organizers if you would like to attend.
 * Devavrat Shah, MIT
 * Vasilis Syrgkanis, Microsoft Research
 * Flavian Vasile, Criteo
-* Nisheeth Vishnoi, Yale University
 
 **Talk titles and abstracts:**
 
