@@ -12,9 +12,9 @@
 
 Please contact the organizers if you would like to attend.
 
-**Day 1 - Thursday May 23, 2019**
 
-| Time |                                                                                    |
+
+| Time | **Day 1 - Thursday May 23, 2019**                                                  |
 |:------------|:----------------------------------------------------------------------------|
 | 09:00-09:55 | **Online Algorithms, Learning and Game Theory: Linear, Convex and Beyond** <br> Nikhil Devanur, _Microsoft Research_ <br> [Abstract](https://ml-udm.github.io/abstract-devanur.html) |                                 
 | 10:00-10:55 | **Exploration in Structured Reinforcement Learning** <br> Alexandre Proutière, _KTH_ <br> [Abstract](https://ml-udm.github.io/abstract-proutiere.html) |
@@ -25,11 +25,7 @@ Please contact the organizers if you would like to attend.
 | 15:00-15:55 | **State Dependent Control of Ride-Hailing Systems** <br> Yash Kanoria, _Columbia University_ <br> [Abstract](https://ml-udm.github.io/abstract-kanoria.html) |
 | 16:00-16:55 | **On The Limits and Potential Solutions for state-of-the-art Recommendation** <br> Flavian Vasile, _Criteo_ <br> [Abstract](https://ml-udm.github.io/abstract-vasile.html) |
 | 19:00 | _Workshop dinner_ <br> venue TBC |
-
-**Day 2 - Friday May 24, 2019**
-
-| Time |                                                                                    |
-|:------------|:----------------------------------------------------------------------------|
+| Time | **Day 2 - Friday May 24, 2019** |
 | 09:00-09:55 | **On Reinforcement Learning using Monte Carlo Tree Search with Supervised Learning: Non-Asymptotic Analysis** <br> Devavrat Shah, _MIT_ <br> [Abstract](https://ml-udm.github.io/abstract-shah.html) |
 | 10:00-10:55 | **Hierarchical Clustering** <br> Claire Mathieu, _CNRS_ <br> [Abstract](https://ml-udm.github.io/abstract-mathieu.html) |
 | 11:00-11:30 | _Coffee break_ |
