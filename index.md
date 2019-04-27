@@ -12,7 +12,7 @@
 
 Please contact the organizers if you would like to attend.
 
-**Day 1**
+**Day 1 - May 23, 2019**
 
 | Time |                                                                                    |
 |:------------|:----------------------------------------------------------------------------|
