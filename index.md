@@ -24,6 +24,7 @@ Please contact the organizers if you would like to attend.
 | 14:00-14:55 | **TBD**, <br> Ana Busic, _INRIA_ <br> Abstract |
 | 15:00-15:55 | **State Dependent Control of Ride-Hailing Systems** <br> Yash Kanoria, _Columbia University_ <br> [Abstract](https://ml-udm.github.io/abstract-kanoria.html) |
 | 16:00-16:55 | **On The Limits and Potential Solutions for state-of-the-art Recommendation** <br> Flavian Vasile, _Criteo_ <br> [Abstract](https://ml-udm.github.io/abstract-vasile.html) |
+| 19:00 | _Workshop dinner_ <br> venue TBC |
 
 **Speakers:**
 
