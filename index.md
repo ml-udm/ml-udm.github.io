@@ -22,7 +22,7 @@ Please contact the organizers if you would like to attend.
 | 11:00-<br>11:30 | _Coffee break_ |
 | 11:30-<br>12:25 | **Can RL Learn Classic Optimization Algorithms** <br> Aranyak Mehta, _Google Research_ <br> [Abstract](https://ml-udm.github.io/abstract-mehta.html) |
 | 12:30-<br>14:00 | _Lunch break_
-| 14:00-<br>14:55 | **TBC** <br> Ana Busic, _INRIA_ <br> Abstract |
+| 14:00-<br>14:55 | **Optimal Control in Dynamic Matching Systems** <br> Ana Busic, _INRIA_ <br> [Abstract](https://ml-udm.github.io/abstract-busic.html) |
 | 15:00-<br>15:55 | **State Dependent Control of Ride-Hailing Systems** <br> Yash Kanoria, _Columbia University_ <br> [Abstract](https://ml-udm.github.io/abstract-kanoria.html) |
 | 16:00-<br>16:55 | **On The Limits and Potential Solutions for state-of-the-art Recommendation** <br> Flavian Vasile, _Criteo_ <br> [Abstract](https://ml-udm.github.io/abstract-vasile.html) |
 | 19:00 <br><br><br> | _Workshop dinner_ <br> venue TBC <br><br><br>|
