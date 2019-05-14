@@ -4,7 +4,7 @@
 
 **Dates**: May 23-24, 2019
 
-**Venue**: 29 rue d'Ulm, Paris, France
+**Venue**: 29 rue d'Ulm, Paris, France (**special note**: access to registered attendees not affiliated with ENS will be through **24, rue Lhomond**)
 
 **Organizers**: Laurent Massoulie (MSR-INRIA Joint Centre) and Milan Vojnovic (London School of Economics)
 
