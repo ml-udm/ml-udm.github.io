@@ -12,7 +12,9 @@
 
 Please contact the organizers if you would like to attend.
 
-**Tentative program schedule**
+**Program schedule**
+
+**Note: link to slides or papers are provided for some of the talks in __abstract__ pages**
 
 | Time | **Day 1 - Thursday May 23, 2019**                                                  |
 |:------------|:----------------------------------------------------------------------------|
